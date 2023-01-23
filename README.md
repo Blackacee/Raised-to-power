@@ -1,2 +1,5 @@
 # Raised-to-power
-Raised to power of.. code 
+
+var a = 3, 
+b = 15; 
+b **= a;
